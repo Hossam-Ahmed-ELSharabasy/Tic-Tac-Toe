@@ -21,7 +21,7 @@ cd Tic-Tac-Toe
 - python tic_tac_toe.py
 
 ## Screenshots
-![](https://github.com/Hossam-Ahmed-ELSharabasy/Tic-Tac-Toe-/blob/main/Screenshot%202024-07-100608.jpg))
+![](https://github.com/Hossam-Ahmed-ELSharabasy/Tic-Tac-Toe-/blob/main/Screenshot%202024-07-100608.jpg)
 
   ## How to Play
 - The game starts with an empty 3x3 grid.
