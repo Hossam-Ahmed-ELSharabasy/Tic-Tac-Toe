@@ -13,7 +13,7 @@ Python 3.x
 
 ## Installation
 - Clone the repository to your local machine:
-- git clone https://github.com/yourusername/Tic-Tac-Toe.git
+- git clone https://github.com/Hossam-Ahmed-ELSharabasy/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 
 ## Usage
